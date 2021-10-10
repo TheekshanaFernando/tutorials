@@ -12,9 +12,9 @@
  - These sessions will also cover areas related to best practices and mathematics.
 
 
- '''python
+```python
 
 import math
 print("hello")
 
- '''
+```
