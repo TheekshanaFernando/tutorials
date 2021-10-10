@@ -19,4 +19,4 @@ print("hello")
 
 ```
 
-&copy; [Theekshana Fernando](https://theekshana.tk)
+Python - &copy; [Theekshana Fernando](https://theekshana.tk)

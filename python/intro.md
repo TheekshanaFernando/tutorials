@@ -65,4 +65,4 @@ There are rules when declaring variables. They are,
  - Variables are case-sensitive
 
 
-&copy; [Theekshana Fernando](https://theekshana.tk)
+Python - &copy; [Theekshana Fernando](https://theekshana.tk)
