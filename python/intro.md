@@ -1,17 +1,17 @@
-# 1. comments
+# 1. Comments
 ```python
 #this is a comment - comments are used to store descriptions about current implementations
 # comments are not interprete by the interperter
 ```
 
-- Example
+Example
 
-following line will print "hello world" to the console
+Following line will print "hello world" to the console
 ```python 
 print("hello world")
 ```
 
-but the following is not going to print as it commented
+But the following is not going to print as it commented
 ```python 
 print("this will not print to the console")
 ```
@@ -24,18 +24,18 @@ There are two types of comments
 ```
 
  2. Following is multi lined comment
-'''
-This is a multilined comments
+```python
+'''This is a multilined comments
 same as single lined comments nothing inside the comment will be excluded on runtime
-print("i'm inside a multilined comment")
+print("i'm inside a multilined comment")'''
 
-'''
+```
 
 # 2. Indentation
 
 There are more rules to consider when programming with pytho, A indentation usually means a 4 spacebar presses, "    " or a tab press. A indentaion will help the program to understand the respective command block
 
-- Example
+Example
 
 ```python
 def add():
@@ -50,7 +50,7 @@ Do not worry if you cannot understand how functions work. there is a dedicated m
 
 Variales plays a major when it comes to programming. variables can be used to store data in the runtime. Unlike other programming languges you do not need to mention the type of the variable. You simply can declare the variable with the required name.
 
-- Example
+Example
 
 ```python
 name = "Sam Perera"
