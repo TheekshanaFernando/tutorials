@@ -18,3 +18,5 @@ import math
 print("hello")
 
 ```
+
+&copy; [Theekshana Fernando](https://theekshana.tk)

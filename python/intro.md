@@ -63,3 +63,6 @@ There are rules when declaring variables. They are,
  - Variables can have symbols and numbers after the first character.
  - Variables can have both Lower case (simple) and Upper case (capital) letters
  - Variables are case-sensitive
+
+
+&copy; [Theekshana Fernando](https://theekshana.tk)
