@@ -10,3 +10,11 @@
  - In this course, you will learn from programming fundamentals to problem-solving using python. 
 
  - These sessions will also cover areas related to best practices and mathematics.
+
+
+ '''python
+
+import math
+print("hello")
+
+ '''
