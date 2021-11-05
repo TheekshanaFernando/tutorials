@@ -12,11 +12,5 @@
  - These sessions will also cover areas related to best practices and mathematics.
 
 
-```python
-
-import math
-print("hello")
-
-```
-
 Python - &copy; [Theekshana Fernando](https://theekshana.tk)
+sponsored by [Ceymmetric Solutions](https://ceymmetrics.lk)
